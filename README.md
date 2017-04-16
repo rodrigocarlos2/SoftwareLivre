@@ -25,7 +25,7 @@ Esta liberdade provê ao usuário a permissão de pegar uma cópia de um softwar
 
 ## Afinal, de onde veio o Software Livre?
 
-Em 1984 no MIT, um cara chamado Richard Stallman fundou o projeto GNU. A idéia era que o GNU fosse um software inteiramente livre. <br>
-Richard pois este nome para difereciar o seu projeto de outro, O Unix. Acontece que O Unix era outro software e o GNU era "baseado" nele. Richard então pensou em criar algo parecido com Unix, só que totalmente livre. Daí "GNU's Not Unix" (GNU não é Unix).<br>
-Partindo para 1991, na Finlândia, um estudante chamado Linus Torvalds criou o kernel (do latim "Cerne", centro) chamado Linux também com caracteristicas que possibilitam funcionar também em cima do Unix e com licença GPL (Licença Pública Geral) que garantem as 4 liberdades do software livre.<br>
+Em 1984, no MIT, um cara chamado Richard Stallman fundou o projeto GNU. A idéia era que o GNU fosse um software inteiramente livre. <br>
+Richard colocou este nome para difereciar o seu projeto de outro, O Unix. Acontece que o GNU era "baseado" nele. Richard então pensou em criar algo parecido com Unix, só que totalmente livre. Daí "GNU's Not Unix" (GNU não é Unix).<br>
+Partindo para 1991, na Finlândia, um estudante chamado Linus Torvalds criou um kernel (do latim "Cerne", centro) chamado Linux também com caracteristicas que possibilitam funcionar também em cima do Unix e com licença GPL (Licença Pública Geral) que garantem as 4 liberdades do software livre.<br>
 O que acontece hoje em dia é que a parte marjoritária das pessoas que usam software livre, "combinam" programas do projeto GNU com o kernel do Linux.
